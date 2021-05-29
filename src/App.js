@@ -17,6 +17,8 @@ function App() {
         >
           Register
         </a>
+        <h1>Yash's Project</h1>
+        <h1>Guided By Prajakta</h1>
       </header>
     </div>
   );
